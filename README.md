@@ -4,6 +4,10 @@
 ## Description
 This app is a tech blog that users can use to write, post, delete, and update blog posts about tech. It uses MVC model to handle the changes and updates to the views the user sees.
 
+## Link
+
+https://andersonmourot.github.io/Tech-Blog/
+
 ## Table of Contents
 
 *[Installation](#installation)
